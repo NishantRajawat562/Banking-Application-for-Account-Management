@@ -31,8 +31,12 @@ Stores up to 50 accounts in memory
 
 BankingApplication.java
 
+└── Contains:
+
     • Account class – defines account details & operations  
+    
     • BankingApplication class – provides menu and manages accounts
+
 
 
 ---
