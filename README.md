@@ -99,7 +99,3 @@ Account created successfully!
 
 This project is licensed under the MIT License.
 
-
----
-
-Would you like me to create a LICENSE file or add GitHub badges (build status, Java version, etc.) for your repository?
